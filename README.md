@@ -4,7 +4,6 @@ Multi-GPU CUDA stress test
 
 - [gpu-burn](#gpu-burn)
   - [Easy docker build and run](#easy-docker-build-and-run)
-  - [Binary packages](#binary-packages)
   - [Building](#building)
   - [Usage](#usage)
 
