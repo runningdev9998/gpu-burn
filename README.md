@@ -1,7 +1,6 @@
 # gpu-burn
 
 Multi-GPU CUDA stress test
-<http://wili.cc/blog/gpu-burn.html>
 
 - [gpu-burn](#gpu-burn)
   - [Easy docker build and run](#easy-docker-build-and-run)
